@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1992 on Paulina Pinsky</title><link>https://opinsky.github.io/paulinapinsky_public/tags/1992/</link><description>Recent content in 1992 on Paulina Pinsky</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://opinsky.github.io/paulinapinsky_public/tags/1992/index.xml" rel="self" type="application/rss+xml"/><item><title>A Galeria / The Gallery</title><link>https://opinsky.github.io/paulinapinsky_public/blog/the-gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opinsky.github.io/paulinapinsky_public/blog/the-gallery/</guid><description/></item><item><title>Déjeuner sur l´Herbe Tropical (Pardon, Manet)</title><link>https://opinsky.github.io/paulinapinsky_public/blog/dejeuner-sur-lherbe-tropical-pardon-manet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opinsky.github.io/paulinapinsky_public/blog/dejeuner-sur-lherbe-tropical-pardon-manet/</guid><description/></item><item><title>Freud Explica / Freud Explains</title><link>https://opinsky.github.io/paulinapinsky_public/blog/freud-explains/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opinsky.github.io/paulinapinsky_public/blog/freud-explains/</guid><description/></item><item><title>Le Déjeuner est Servi</title><link>https://opinsky.github.io/paulinapinsky_public/blog/le-dejeuner-est-servi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opinsky.github.io/paulinapinsky_public/blog/le-dejeuner-est-servi/</guid><description/></item><item><title>Sala da Lareira / Living-room with Fireplace</title><link>https://opinsky.github.io/paulinapinsky_public/blog/living-room-with-fireplace/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opinsky.github.io/paulinapinsky_public/blog/living-room-with-fireplace/</guid><description/></item><item><title>THE AHWAHNEE</title><link>https://opinsky.github.io/paulinapinsky_public/blog/the-ahwahnee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opinsky.github.io/paulinapinsky_public/blog/the-ahwahnee/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1992 on Paulina Pinsky</title>
+    <link>https://opinsky.github.io/paulinapinsky_public/tags/1992/</link>
+    <description>Recent content in 1992 on Paulina Pinsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://opinsky.github.io/paulinapinsky_public/tags/1992/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Galeria / The Gallery</title>
+      <link>https://opinsky.github.io/paulinapinsky_public/blog/the-gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opinsky.github.io/paulinapinsky_public/blog/the-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Déjeuner sur l´Herbe Tropical (Pardon, Manet)</title>
+      <link>https://opinsky.github.io/paulinapinsky_public/blog/dejeuner-sur-lherbe-tropical-pardon-manet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opinsky.github.io/paulinapinsky_public/blog/dejeuner-sur-lherbe-tropical-pardon-manet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freud Explica / Freud Explains</title>
+      <link>https://opinsky.github.io/paulinapinsky_public/blog/freud-explains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opinsky.github.io/paulinapinsky_public/blog/freud-explains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Déjeuner est Servi</title>
+      <link>https://opinsky.github.io/paulinapinsky_public/blog/le-dejeuner-est-servi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opinsky.github.io/paulinapinsky_public/blog/le-dejeuner-est-servi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sala da Lareira / Living-room with Fireplace</title>
+      <link>https://opinsky.github.io/paulinapinsky_public/blog/living-room-with-fireplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opinsky.github.io/paulinapinsky_public/blog/living-room-with-fireplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THE AHWAHNEE</title>
+      <link>https://opinsky.github.io/paulinapinsky_public/blog/the-ahwahnee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opinsky.github.io/paulinapinsky_public/blog/the-ahwahnee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
