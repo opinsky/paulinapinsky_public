@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Paulina Pinsky</title>
+    <link>https://paulina-pinsky.web.app/categories/</link>
+    <description>Recent content in Categories on Paulina Pinsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://paulina-pinsky.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>biblia</title>
+      <link>https://paulina-pinsky.web.app/categories/biblia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/biblia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversos</title>
+      <link>https://paulina-pinsky.web.app/categories/diversos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/diversos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homenagem</title>
+      <link>https://paulina-pinsky.web.app/categories/homenagem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/homenagem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interiores</title>
+      <link>https://paulina-pinsky.web.app/categories/interiores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/interiores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>objetos</title>
+      <link>https://paulina-pinsky.web.app/categories/objetos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/objetos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obras-disponiveis</title>
+      <link>https://paulina-pinsky.web.app/categories/obras-disponiveis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/obras-disponiveis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>praia</title>
+      <link>https://paulina-pinsky.web.app/categories/praia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/praia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tapetes</title>
+      <link>https://paulina-pinsky.web.app/categories/tapetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/tapetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://paulina-pinsky.web.app/categories/uncategorized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulina-pinsky.web.app/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
