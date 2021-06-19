@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.fd55.net/blog/ben/</loc>
-  </url><url>
     <loc>https://www.fd55.net/tags/1991/</loc>
   </url><url>
     <loc>https://www.fd55.net/tags/1992/</loc>
@@ -69,6 +67,8 @@
     <loc>https://www.fd55.net/blog/the-3-races/</loc>
   </url><url>
     <loc>https://www.fd55.net/blog/buildings-in-brazil/</loc>
+  </url><url>
+    <loc>https://www.fd55.net/blog/ben/</loc>
   </url><url>
     <loc>https://www.fd55.net/categories/biblia/</loc>
   </url><url>
